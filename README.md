@@ -2,6 +2,8 @@
 
 ![Mattias' GitHub stats](https://github-readme-stats.vercel.app/api?username=mattiasxu&hide=stars,issues&theme=tokyonight)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 <!--
 **MattiasXu/MattiasXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
