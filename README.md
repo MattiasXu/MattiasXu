@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-[![Mattias' GitHub stats](https://github-readme-stats.vercel.app/api?username=mattiasxu)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-
+![Mattias' GitHub stats](https://github-readme-stats.vercel.app/api?username=mattiasxu&hide=stars,prs,contribs)
 
 <!--
 **MattiasXu/MattiasXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
