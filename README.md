@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Computer Science student at University of Oslo. I like training neural networks 🧠 and myself 🏋️. I also do other stuff 🤓
+Computer Science student at University of Oslo.
 
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattias-xu-8a483b147/)
 
