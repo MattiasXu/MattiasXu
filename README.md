@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Back End Developer @ Risika
+Back End Developer at Risika
+
 MSc Computer Science, Robotics and Intelligent Systems from University of Oslo.
 
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattias-xu-8a483b147/)
