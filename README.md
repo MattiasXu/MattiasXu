@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Back End Developer at Risika
+Backend Developer at TV 2 Play
 
 MSc Computer Science, Robotics and Intelligent Systems from University of Oslo (2022).
 
